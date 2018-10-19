@@ -27,7 +27,7 @@
 
 [X] I am still responsible for the shift until someone else takes it
 [X] I should email learnexperts@flatironschool.com for greater visibility
-[ ] I should DM the Technical Coach Manager on Slack
+[ ] I should DM my Faculty Manager on Slack
 [ ] I should email my Technical Coach Lead
 
 ???
